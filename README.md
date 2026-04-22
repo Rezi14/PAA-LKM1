@@ -210,3 +210,5 @@ php artisan migrate --seed
  
 
 ---
+
+## 🔹 Link Youtube : https://youtu.be/MiqXXhjEJ9Y?si=ZjGu8nX3GgtXwmJH
